@@ -1,0 +1,286 @@
+[
+   {
+      "name": "Apples",
+      "codes": [
+         "4015",
+         "4016",
+         "4017",
+         "4019",
+         "4020"
+      ],
+      "description": "",
+      "image": "https://d2d8wwwkmhfcva.cloudfront.net/800x/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_990e509c-3b20-4f68-9d9c-28d468cc46a2.jpg"
+   },
+   {
+      "name": "Basic Fruits #1",
+      "codes": [
+         "4011",
+         "4012",
+         "4033",
+         "4048",
+         "4045",
+         "4286",
+         "4289",
+         "4051"
+      ],
+      "description": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61fZ%2BYAYGaL._SL1500_.jpg"
+   },
+   {
+      "name": "Basic Fruits #2",
+      "codes": [
+         "4029",
+         "4023",
+         "4022",
+         "4087",
+         "4064",
+         "4032",
+         "4050",
+         "4030"
+      ],
+      "description": "",
+      "image": "https://d2d8wwwkmhfcva.cloudfront.net/800x/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_0b432212-1e7a-4525-a632-d67f6df60485.jpg"
+   },
+   {
+      "name": "Basic Greens",
+      "codes": [
+         "4076",
+         "4075",
+         "4061",
+         "4640",
+         "4090",
+         "4627"
+      ],
+      "description": "",
+      "image": "https://i5.walmartimages.com/asr/b04f8974-5039-4caa-8232-605cb4165b2c_1.024aa0ba302d0701a6cde28cd3c80264.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+   },
+   {
+      "name": "Basic Veggies #1",
+      "codes": [
+         "4060",
+         "4079",
+         "4066",
+         "4062",
+         "4067",
+         "4782",
+         "4070"
+      ],
+      "description": "",
+      "image": "https://images.albertsons-media.com/is/image/ABS/184290007?$ecom-pdp-desktop$&defaultImage=Not_Available"
+   },
+   {
+      "name": "Basic Veggies #2",
+      "codes": [
+         "4081",
+         "4089",
+         "4078",
+         "4084",
+         "4085",
+         "4092"
+      ],
+      "description": "",
+      "image": "https://www.thespruceeats.com/thmb/C80qrjY3n2ThHDqkljE9Pyktf-A=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/Eggplant-583f71c13df78c0230e56c20.jpg"
+   },
+   {
+      "name": "Citrus",
+      "codes": [
+         "4012",
+         "4013",
+         "4014",
+         "4033",
+         "4048",
+         "4047",
+         "4286",
+         "4289",
+         "4030",
+         "3129"
+      ],
+      "description": "Common citrus fruits (oranges, limes, etc)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417n3wrfLgL.jpg"
+   },
+   {
+      "name": "Exotic Fruits",
+      "codes": [
+         "3454",
+         "4309",
+         "3040",
+         "4255"
+      ],
+      "description": "Specialty fruits from around the globe!",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71glW-5Mo%2BL._SX466_.jpg"
+   },
+   {
+      "name": "Exotic Veggies",
+      "codes": [
+         "4545"
+      ],
+      "description": "",
+      "image": "https://www.kroger.com/product/images/xlarge/front/0000000004545"
+   },
+   {
+      "name": "Fall Seasonal",
+      "codes": [
+         "4735",
+         "3130",
+         "3134",
+         "4734",
+         "3132",
+         "4750"
+      ],
+      "description": "",
+      "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_d4454106-44d9-4fb3-868e-d36ae0048752.jpg"
+   },
+   {
+      "name": "Greens",
+      "codes": [
+         "4076",
+         "4075",
+         "4061",
+         "4640",
+         "4090",
+         "4627",
+         "4614",
+         "4616"
+      ],
+      "description": "",
+      "image": "https://i5.walmartimages.com/asr/b04f8974-5039-4caa-8232-605cb4165b2c_1.024aa0ba302d0701a6cde28cd3c80264.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+   },
+   {
+      "name": "Herbs",
+      "codes": [
+         "4889",
+         "4899",
+         "4901",
+         "4612",
+         "4608",
+         "4815"
+      ],
+      "description": "",
+      "image": "https://geturbanleaf.com/wp-content/uploads/2020/02/cilantro-hero.jpeg"
+   },
+   {
+      "name": "Mushroom Kingdom",
+      "codes": [
+         "4085",
+         "4850",
+         "4851",
+         "3102",
+         "4647"
+      ],
+      "description": "",
+      "image": "https://cdn.shopify.com/s/files/1/0145/1586/3606/products/White-Button-Mushrooms_530x@2x.png?v=1613630924"
+   },
+   {
+      "name": "Onions",
+      "codes": [
+         "4068",
+         "4093",
+         "4082",
+         "4166"
+      ],
+      "description": "",
+      "image": "https://www.markon.com/sites/default/files/pi_photos/Onions_Yellow_Hero.jpg"
+   },
+   {
+      "name": "Pears",
+      "codes": [
+         "4416",
+         "4414",
+         "4409",
+         "4413",
+         "4415",
+         "4408"
+      ],
+      "description": "",
+      "image": "https://images.albertsons-media.com/is/image/ABS/184120177?$ecom-pdp-desktop$&defaultImage=Not_Available"
+   },
+   {
+      "name": "Peppers",
+      "codes": [
+         "4065",
+         "4088",
+         "3121",
+         "4689",
+         "3465",
+         "3125",
+         "4693",
+         "4709",
+         "4677",
+         "4585"
+      ],
+      "description": "",
+      "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5b34f624e54acd7021de4922_redbellpepper-1.jpg"
+   },
+   {
+      "name": "Pumpkin Patch",
+      "codes": [
+         "4735",
+         "3130",
+         "3134",
+         "4734",
+         "3132"
+      ],
+      "description": "",
+      "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_d4454106-44d9-4fb3-868e-d36ae0048752.jpg"
+   },
+   {
+      "name": "Roots",
+      "codes": [
+         "4072",
+         "4073",
+         "4083",
+         "4816",
+         "4539",
+         "4540",
+         "4819"
+      ],
+      "description": "",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000318978"
+   },
+   {
+      "name": "Stone Fruits",
+      "codes": [
+         "4036",
+         "4042",
+         "4040",
+         "4044",
+         "3113",
+         "4401",
+         "4218"
+      ],
+      "description": "",
+      "image": "https://0bb8856ba8259ec33e3d-a40599a114f3a4c6d0979c3ffe0b2bf5.ssl.cf2.rackcdn.com/0000000040440_CL_hyvee_default_large.jpeg"
+   },
+   {
+      "name": "Summer Seasonal",
+      "codes": [
+         "4032",
+         "4078",
+         "4034",
+         "4050"
+      ],
+      "description": "Popular summer favorites! ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIXK_tEx1E3Lhnep6XwLU-SZSP139g5MlUwHG2Wo5NnvChJDBhJSA_WYJ31cOlgV9S-c&usqp=CAU"
+   },
+   {
+      "name": "Superfoods",
+      "codes": [
+         "4046",
+         "4627",
+         "4445"
+      ],
+      "description": "",
+      "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/575f2594d59d0103e5ac59c2_produce_ogavocados.1.jpg"
+   },
+   {
+      "name": "Tropical Fruits",
+      "codes": [
+         "4235",
+         "4051",
+         "4959",
+         "4312"
+      ],
+      "description": "",
+      "image": "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/plantains_commodity-page.png"
+   }
+]
