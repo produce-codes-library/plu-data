@@ -1,5 +1,19 @@
 [
    {
+      "name": "All Basics",
+      "codes": [
+      ],
+      "description": "",
+      "image": "https://d2d8wwwkmhfcva.cloudfront.net/800x/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_990e509c-3b20-4f68-9d9c-28d468cc46a2.jpg"
+   },
+   {
+      "name": "All Intermediate",
+      "codes": [
+      ],
+      "description": "",
+      "image": "https://d2d8wwwkmhfcva.cloudfront.net/800x/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_990e509c-3b20-4f68-9d9c-28d468cc46a2.jpg"
+   },
+   {
       "name": "Apples",
       "codes": [
          "4015",
